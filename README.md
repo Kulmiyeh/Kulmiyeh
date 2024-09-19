@@ -1,4 +1,5 @@
-👋 #Hi, I’m @Kulmiye Hussein
+👋 ![Screenshot_1697020513](https://github.com/user-attachments/assets/a0d631cb-2a94-405d-b871-165db5bc369a)
+Hi, I’m @Kulmiye Hussein
 👀 I’m interested in full-stack (MERN stack) development, mobile app development, and UI/UX design
 🌱 I’m currently learning advanced techniques in full-stack and mobile app development
 💞️ I’m looking to collaborate on web and mobile applications with a strong focus on design and user experience
